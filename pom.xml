@@ -76,12 +76,12 @@
     <repository>
        <id>deployment</id>
 	   <name>Releases</name>
-       <url>http://52.53.221.7:8081/repository/maven-releases/</url>
+       <url>http://localhost:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
        <id>deployment</id>
 	   <name>Snapshot</name>
-       <url>http://52.53.221.7:8081/repository/maven-snapshots/</url>
+       <url>http://localhost:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
     </distributionManagement>
 </project>
